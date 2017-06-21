@@ -1,32 +1,19 @@
 ---
-layout: page
-title: About the Jekyll Theme
-image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+layout: about
+title: About
 comments: false
-modified: 2016-02-01
+modified: 2017-06-18
+share: false
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+I am a rising Junior at Mizzou, where I lead the [Mizzou Computing Association](https://mca.missouri.edu){:target="_blank"}, help organize [TigerHacks](https://tiger-hacks.com){:target="_blank"}, and conduct research at the [Distributed and Intelligent Computing Lab](http://dslsrv1.rnet.missouri.edu/~shangy/){:target="_blank"}.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+This summer I am optimizing mapping anomaly detection at [Esri](http://www.esri.com/){:target="_blank"} and building off of work last summer at a National Science Foundation REU.
+In the past I have [published work]({{ site.url }}/augmented-resource-allocation-mobilecloud17.pdf){:target="_blank"} enhancing disaster resource allocation, and have contributed to new methods of [detecting alcohol use](http://ieeexplore.ieee.org/document/7501676){:target="_blank"} and abuse.
 
-## HPSTR Features:
+I am interested in opportunities for using technology to improve wellbeing - some areas I think about a lot are behavior modeling, human computer interaction, and tech-based interventions in mental healthcare.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+Drop me a line at lguerdan at yahoo dot com if you want to chat!
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
 [^1]: Example: *domain.com/category-name/post-title*
